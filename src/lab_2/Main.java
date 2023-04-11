@@ -42,6 +42,11 @@ public class Main {
         System.out.println(task5.main_task5_6());
 
         System.out.println("---------------------------TASK-5--------------------------------------");
+        for (int i=0;i<3;i++){
+            for (int j=0;j<60;j++){
+                System.out.println(i + "h"+" "+j+""+"min");
+            }
+        }
     }
 
 }
