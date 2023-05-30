@@ -1,62 +1,44 @@
-# Лабораторна робота №1
+# Laboratory work 1
 
-# Завдання :
+# Description
 
-1. Створити 10 цілих змінних
-    - додати їх між собою
-    - відняти їх між собою
-    - перемножити їх між собою
-    - поділити їх між собою
-      Вивести результати в консоль
+This project involves the following tasks:
 
-2. Придумати речення з 10-12 слів. Кожне слово покласти в змінну. Вивести в консоль ціле речення.
+1. Performing arithmetic operations on variables and printing the output data to the console.
 
-3. Свторити клас User з полями
-   int id,
-   int age
-   String name,
-   String surname,
-   double weight,
-   double height.
-   Створити 10 об'єктів класу User.
-   Додати між собою значення їх віку і вивести в консоль.
-   Додати між собою значення їх ваги і вивести в консоль.
-   Додати між собою значення їх зросту і вивести в консоль.
+2. Creating a sentence using variables and outputting the sentence to the console.
 
-4. Створити клас Car з полями:
-- кінські сили (або потужність)
-- об'єм двигуна
-- 5 полів придумати самостійно
-  Створити 10 об'єктів класу Car.
-  Додати між собою значення їх об'ємів і вивести в консоль.
-  Додати між собою значення їх потужностей і вивести в консоль.
+3. Creating a user class with the fields ID, age, first name, last name, weight and height and adding the age, weight, height fields to a group of 10 objects of the User class and outputting the result to the console.
 
-5. За допомоги %, спробувати "реверснути" трьохзначне число.
-   Приклад: 412 => 214
+4. Create a Car class with fields for Horsepower, Engine Power, Model, Year, Color, Fuel Type and Mileage and perform the addition of the Horsepower, Engine Power fields for a group of 10 objects of the Car class and output the result to the console.
 
+5. Creating an inverted three-digit number.
 
+# Requirements
+To run this project, you must have the following installed on your computer:
+Java Development Kit (JDK) version [insert version number here]
 
-# Інструкції зі створення
-Клонуємо проект
+# Instructions for creation
+Instructions for creation
+Clone the repository to your local machine using
 ```
 git clone https://github.com/OlenaChemerynska2003/Olena_Chemerynska_TR_22_2023.git
 ```
 
-# Інструкції по запуску
-Щоб запустити проект : коли ми вже клонували проект відкриваємо термінал і прописуємо  наступні команди
+# Instructions for starting
+To start the project: when we have already cloned the project, open the terminal and write the following commands
 ```
 cd src
 ```
-І прописуємо команди для запуску проекту
+And we write the commands to launch the project
 ```
 javac Main.java
 
-java Main 
+java Main
 ```
-
-# Результат
+# Results
 
 ![image](photo_5341365292770641731_y.jpg)
 
-# Підтримка
-Якщо виникли якісь питання звертайтеся за email Olena.Chemerynska.tr.2021@lpnu.ua
+# Support
+If you have any problems during the project, please contact us at email Olena.Chemerynska.tr.2021@lpnu.ua

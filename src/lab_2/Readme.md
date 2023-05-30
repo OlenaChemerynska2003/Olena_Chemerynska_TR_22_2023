@@ -1,49 +1,39 @@
-# Виконавиця:Олена Чемеринська
+# Laboratory work 2
 
---------------------------------
-[РЕПОЗИТОРІЙ](https://github.com/OlenaChemerynska2003/Olena_Chemerynska_TR_22_2023)
+# Description
 
---------------------------------
+1. Solving a quadratic equation using a complex program.
+2. Determination of the number of the quadrant in which the point with the given coordinates x, y is located.
+3. Determine whether the given number is two-digit and even.
+4. Using a conditional operator, write a program to calculate f(x).
+5. Using the selection operator, write a program so that the number of the day of the week prints whether it is a working day or a weekend, considering Saturday and Sunday as weekends, the number of the month indicates which season it belongs to, the number of the month prints the number of days in it.
+   Creation of a text menu, in which when selecting the first item a greeting is displayed, when selecting the second item - an invitation to work on the computer, when selecting the third - it is suggested to complete the work. Writing a program that, based on the number of the pair (a natural number from 1 to 4) on this day, gives the name of the item on this pair. The variable min contains a number from 0 to 59. Output to the console in which quarter of an hour this number falls (in the first, second, third or fourth). Creation of a text menu, in which the value of the product of two numbers is calculated when the first item is selected, the value of the sum of two numbers is selected when the second item is selected, and the value of the difference is selected when the third item is selected.
 
-## Завдання 1:
-Написала програму для розв'язку квадратного рівняння.
-Створила клас Task1 з одним полем і конструктором. 
-Також створила метод main_task1 в якому описала весь функціонал до завдання .
-## Завдання 3:
-Створила клас Task3 з одним полем та конструктор .
-В завдання треба було написати програму яка буде визначати чи число є парним та двозначним. 
-В даному класі я створила два методи в методі main_task3_1 я описала функціонал для (задане число є двозначним)
-функціонал полягає в тому що в if є перевірка якщо число більше 9 і менше ніж 100 то дане число є двозначним в іншому випадку не двозначне . 
-В другому методі main_task3_2 я написала функціонал для перевірки на парність я за допомого оператора % дивлюся якщо остача = 0 то число парне в іншому випадку не парне 
-## Завдання 2:
-В 2 завданні треба було визначити в якому квадраті знаходиться координати (x та y).
-Створила клас Task2 з двома полями та конструктором .
-В методі main_task2 написала основний функціонал за допомогою if else роблю перевірки і визначаю в якому квадраті знаходяться x та y.
-## Завдання 4:
-Треба було обчислити функцію F(x).
-Створила клас Task4 з одним полем і конструктором.
-В методі main_task4 написала основний функціонал в функції F(x) є певні умови за яких обчислюється задана функція я задопомою if else перевіряю ці умови якщо умова підходить то виконується певні обчислення .
-## Завдання 5:
-Дана задача складалася з підзадач які треба було виконати за допомогою оператора вибору 
-Я створила клас Task5 в якому 3 поля та конструктор
-1) Перший метод main_task5_1 класу описує функціонал для першої підзадачі умова підзадачі була(
-За номером дня тижня визначити робочий день або вихідний 
-)
-я стоврила switch з двома case в двох кейса 6 і 7  повертає Вихідний день а в default що Робочий
+# Requirements
+To run this project, you must have the following installed on your computer:
+Java Development Kit (JDK) version [insert version number here]
 
-2) Другий метод main_task5_2 (функціонал 2 підзадачі) умова підзадачі (
-   За номером місяця вказати, до якої пори  року він відноситься
-) також створила  switch з кейсами до якої пори року відноситься даний кейс. 
-3) Третій метод main_task5_3 (функціонал 3 підзадачі) умова підзадачі (
-   За номером місяця вказати, вказати скільки днів в місяці 
-   ) також створила  switch з певними кейсам (кейси в яких місяць має 31 день 30 днів також (28 або 29))
-4) Четверний метод main_task5_4 (функціонал 4 підзадачі) умова підзадачі (створити меню в якому при виборі певного пункту робиться певна дія )
-пункти меню це кейси тому при певному виборі пункту виконується певний кейс 
-5) Пятий метод main_task5_5 (функціонал 5 підзадачі) умова підзадачі (
-   В змінній min є число від 0 до 59. Виведіть в консоль в яку чверть години потрапляє це число (в першу, другу, третю або четверту)
-)
-я створила в методі змінну number в яку я записую певне число в залежності від умови (умови я описала в if) пізніше число number передаю в switch
-   (Наприклад ми передали число 3 число три провіряється умовами if підходить умові з (x >= 0 && x < 15) тому number=1 число 1 потрапляє в switch і виконується case 1 в якому виводиться перша чверть години )
-6) Шостий метод main_task5_6 (функціонал 6 підзадачі) умова підзадачі ( Створіть текстове меню, в якому при виборі першого пункту обчислюється значення добутку двох чисел, при виборі другого пункту – значення суми двох чисел, при виборі третього пункту – значення різниці.
-   ) яке число приходить для switch такий і case виконується задані два числа були створені в класі (number_1,number_2)
+# Instructions for creation
+Instructions for creation
+Clone the repository to your local machine using
+```
+git clone https://github.com/OlenaChemerynska2003/Olena_Chemerynska_TR_22_2023.git
+```
 
+# Instructions for starting
+To start the project: when we have already cloned the project, open the terminal and write the following commands
+```
+cd src
+```
+And we write the commands to launch the project
+```
+javac Main.java
+
+java Main
+```
+# Results
+
+![image](img.png)
+
+# Support
+If you have any problems during the project, please contact us at email Olena.Chemerynska.tr.2021@lpnu.ua
