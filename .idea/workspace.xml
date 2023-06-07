@@ -4,26 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c44ae47-65f8-4077-80c5-965ff0a10b77" name="Changes" comment="commit lab_6">
-      <change afterPath="$PROJECT_DIR$/src/lab_3/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_4/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_5/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_5/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_6/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_7/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_7/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_7/PhoneBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_7/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_8/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_8/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_9/FirstForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_9/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_9/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_1/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_1/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_2/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_2/Readme.md" afterDir="false" />
+    <list default="true" id="6c44ae47-65f8-4077-80c5-965ff0a10b77" name="Changes" comment="commit lab_7&#10;commit lab_8&#10;commit lab_9">
+      <change afterPath="$PROJECT_DIR$/src/lab_8/Task_File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_7/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_7/PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_8/best.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +118,11 @@
       <workItem from="1684335997432" duration="5732000" />
       <workItem from="1684708750099" duration="760000" />
       <workItem from="1684741341043" duration="5971000" />
-      <workItem from="1685449971805" duration="8810000" />
+      <workItem from="1685449971805" duration="9563000" />
+      <workItem from="1685526411725" duration="1708000" />
+      <workItem from="1685532798466" duration="1422000" />
+      <workItem from="1685642789676" duration="1528000" />
+      <workItem from="1686118434903" duration="578000" />
     </task>
     <task id="LOCAL-00001" summary="TRTR">
       <created>1679607370398</created>
@@ -197,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684255635697</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit lab_7&#10;commit lab_8&#10;commit lab_9">
+      <created>1685477364432</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685477364432</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +220,7 @@
     <MESSAGE value="commit lab_1 version 0.2 (remove TEST.java)" />
     <MESSAGE value="commit lab_3" />
     <MESSAGE value="commit lab_6" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit lab_6" />
+    <MESSAGE value="commit lab_7&#10;commit lab_8&#10;commit lab_9" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit lab_7&#10;commit lab_8&#10;commit lab_9" />
   </component>
 </project>

@@ -27,7 +27,7 @@ public class PhoneBook {
         }
 
         // Пошук номеру за прізвищем
-        String lastName = "Johnson";
+        String lastName = "Taylo";
         if (phoneBook.containsKey(lastName)) {
             String phoneNumber = phoneBook.get(lastName);
             System.out.println("Номер телефону для прізвища " + lastName + ": " + phoneNumber);
